@@ -1,0 +1,29 @@
+_repo: Mystics-and-Saints-of-Islam_24314
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+description: ''
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Muslim saints'
+- !lcc 'BP'
+- !lcsh 'Sufism'
+- !lcsh 'Mysticism -- Islam'
+title: Mystics and Saints of Islam
+url: http://www.gutenberg.org/ebooks/24314
